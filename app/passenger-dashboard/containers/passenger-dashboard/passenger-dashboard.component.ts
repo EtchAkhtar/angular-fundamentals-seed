@@ -56,7 +56,6 @@ export class PassengerDashboardComponent implements OnInit {
           return passenger;
         });
       });
-
   }
 
 }
